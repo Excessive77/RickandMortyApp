@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  color: aqua;
+  font-size: 24px;
+  padding: 30px;
+}
+
+.row div {
+  padding-left: 32px;
+}
+
+.resident-container {
+  display: flex;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 60px;
+  grid-area: span;
+  padding: 30px;
+}
+
+.resident {
+  border: 10px solid #000;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 12px;
+  background-color: #54C9C3;
+}
+
+.resident img {
+  height: auto;
+  width: auto;
+}

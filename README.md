@@ -45,26 +45,24 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### My gitHub
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Puedes encontrar este proyecto aqui: [https://github.com/Excessive77](https://github.com/Excessive77)
 
-### Analyzing the Bundle Size
+### Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Jorge Lopez (Excessive_77)
 
-### Making a Progressive Web App
+### My portfolio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Visita mi portafolio aqui: [https://practical-johnson-e34ff1.netlify.app/#home](https://practical-johnson-e34ff1.netlify.app/#home)
 
-### Advanced Configuration
+### My linkedIn
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Visita mi perfil de LinkedIn aqui: [https://www.linkedin.com/in/jorge-l%C3%B3pez-romero-29122321b/](https://www.linkedin.com/in/jorge-l%C3%B3pez-romero-29122321b/)
 
-### Deployment
+# ¡Importante!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Todos los Seniors tambien fueron Juniors alguna vez... ;)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
